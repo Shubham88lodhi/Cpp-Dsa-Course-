@@ -19,7 +19,7 @@ int main() {
 
     int c = 'A' ;
 
-
+    // can use [ endl] ,['\n'] for the next line
     cout << size << endl ;
     cout << a << '\n'  ;
     cout << ch << endl ;
@@ -27,29 +27,6 @@ int main() {
     cout << fl  << endl  ;
     cout << dl << endl ;
     cout << c << '\n' ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }
