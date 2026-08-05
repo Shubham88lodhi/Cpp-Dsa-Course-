@@ -357,7 +357,7 @@ int main() {
 
 
 
-    
+    /*
     int m ;
     cout << " Enter the value of M :"  << endl;
     cin>>m;
@@ -399,8 +399,12 @@ int main() {
         i = i+1;
         cout << endl ;
     }
-    
+           1       
+         1 2 1     
+       1 2 3 2 1   
+     1 2 3 4 3 2 1 
 
+   */
 
     /*
     int n ;
